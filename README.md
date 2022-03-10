@@ -8,6 +8,13 @@ Expliquez, en quelques lignes, ce que fait cette fonction.
 
 ### Question 2
 
+Codez cette fonction. Merci de fournir un fichier contenant :
+
+    la fonction,
+    l'appel de la fonction, avec un jeu de test en entrée,
+    l'affichage du résultat en sortie.
+
+
 #### Réponse : Script php : test_globalis.php
 
 ### Question 3
