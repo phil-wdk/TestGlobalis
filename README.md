@@ -21,6 +21,6 @@ Codez cette fonction. Merci de fournir un fichier contenant :
 
 Précisez en combien de temps vous avez implémenté cette fonction.
 
-#### Réponse : En une après-midi.
+#### Réponse : En 3h en comptant la compréhension du sujet.
 
 ## Merci pour l'opportunité que vous m'offrez.
